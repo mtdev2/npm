@@ -19,8 +19,13 @@
   "dependencies": {
     "@semantic-release/error": "^2.2.0",
     "aggregate-error": "^3.0.0",
+
+    "execa": "4.0.2",
+    "fs-extra": "^9.0.0",
+
     "execa": "^4.0.0",
     "fs-extra": "9.0.1",
+depfu/check/npm/execa-4.0.2
     "lodash": "^4.17.15",
     "nerf-dart": "^1.0.0",
     "normalize-url": "^5.0.0",
